@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+
+#submit{
+	width:150px;
+	height:30px;
+	background-color:blueviolet;
+	color:white;
+}
+
+.book{
+	color: darkcyan;
+}
+.heading{
+	display:flex;
+	justify-content:center;
+}
+.text{
+	display:flex;
+}
